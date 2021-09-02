@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC8725d05dbd-38647653935477.pdf
   date_end: ""
-  date_start: ""
+  date_start: "2021-07-21"
   description: ""
   organization: International Scrum Institute
   organization_url: https://www.scrum-institute.org/
