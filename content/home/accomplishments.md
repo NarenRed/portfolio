@@ -38,15 +38,8 @@ item:
   organization: edX
   organization_url: https://www.edx.org
   title: Blockchain Fundamentals
-  url: 
-- certificate_url: https://www.youracclaim.com/badges/9d38407d-df1a-4607-bde5-06a2f3eee7e0
-  date_end: ""
-  date_start: ""
-  description: ""
-  organization: Microsoft
-  organization_url: https://www.microsoft.com/
-  title: Microsoft Certified: Azure Fundamentals
   url: ""
+
 
 design:
   columns: '2' 
