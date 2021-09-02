@@ -25,9 +25,9 @@ education:
   courses:
     - course: Ms in Computer Science
       institution: The University of Texas at Arlington
-      year: 2017
+      year: ""
     - course: Bachelors in Technology
-      institution: Jawaharlal Nehru Technological University ,Hyderabad,India
+      institution: Jawaharlal Nehru Technological University  Hyderabad,India
       year: 2017
 email: ""
 superuser: true
