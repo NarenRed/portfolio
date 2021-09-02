@@ -22,7 +22,7 @@ main:
     weight: 60
    
   - name : CV
-    url : images/resume.pdf
+    url : https://drive.google.com/drive/u/0/folders/1l3YXn5DyiLawIMbgDkVAJU6FagyS1PWi
     weight: 70
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
