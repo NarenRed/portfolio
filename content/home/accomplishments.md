@@ -31,14 +31,7 @@ item:
   organization_url: https://www.scrum-institute.org/
   title: Scrum Master
   url: ""
-- certificate_url: https://courses.edx.org/certificates/55fb4c08b1db49f493cfe26daebdf056
-  date_end: ""
-  date_start: ""
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: ""
+
 
 
 design:
