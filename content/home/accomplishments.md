@@ -31,14 +31,7 @@ item:
   organization_url: https://www.scrum-institute.org/
   title: Scrum Master
   url: ""
-- certificate_url: https://www.youracclaim.com/badges/9d38407d-df1a-4607-bde5-06a2f3eee7e0
-  date_end: ""
-  date_start: "2020-11-22"
-  description: ""
-  organization: Microsoft
-  organization_url: https://www.microsoft.com/
-  title: Microsoft Certified: Azure Fundamentals
-  url: ""
+
 
 
 design:
