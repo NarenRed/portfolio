@@ -17,14 +17,14 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+  icon: C-sharp
   icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: C#
+- description: 80%
+  icon: cloud
+  icon_pack: fas
+  name: Microsoft Azure
+- description: 80%
   icon: camera-retro
   icon_pack: fas
   name: Photography
