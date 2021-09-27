@@ -23,7 +23,7 @@ subtitle:
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 myblog:
   - title: titanic survival
-    description: **Overview** Everone in the world knows about the famous titanic ship and the disaster.based on the data of the titanic ship we are creating a machine learning model. Read more [title](https://medium.com/@penintinarender/prediciting-the-survival-of-titanic-disaster-87f0cbc6e32f)
+    description: Everone in the world knows about the famous titanic ship and the disaster.based on the data of the titanic ship we are creating a machine learning model. Read more [title](https://medium.com/@penintinarender/prediciting-the-survival-of-titanic-disaster-87f0cbc6e32f)
         
   
 design:
