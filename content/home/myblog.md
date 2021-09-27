@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: My Blog
+title: myblog
 subtitle:
 
 # Date format for experience
