@@ -26,7 +26,7 @@ experience:
     company: IBM
     company_url: 'https://www.ibm.com/'
     company_logo: org-gc
-    location: Inida
+    location: India
     date_start: '2017-12-27'
     date_end: '2020-12-28'
     description: |2-
