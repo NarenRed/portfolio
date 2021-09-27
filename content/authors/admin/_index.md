@@ -29,10 +29,7 @@ education:
     - course: Bachelors in Technology
       institution: Jawaharlal Nehru Technological University  Hyderabad,India
       year: 2017
-email: ""
-myblog:
-  - title: titanic survival
-    description: Everone in the world knows about the famous titanic ship and the disaster.based on the data of the titanic ship we are creating a machine learning model. Read more [title](https://medium.com/@penintinarender/prediciting-the-survival-of-titanic-disaster-87f0cbc6e32f)
+email: "" 
 superuser: true
 highlight_name: false
 ---

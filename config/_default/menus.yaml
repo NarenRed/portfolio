@@ -16,11 +16,11 @@ main:
   
   - name: My blog
     url: '#myblog'
-    weight: 30
+    weight: 40
 
   - name: Accomplishments
     url: '#accomplishments'
-    weight: 40
+    weight: 50
 
   - name: Contact
     url: '#contact'
