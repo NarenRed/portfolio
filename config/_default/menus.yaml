@@ -15,7 +15,7 @@ main:
     weight: 30
   
   - name: My blog
-    url: '#myblog'
+    url: 'https://medium.com/@penintinarender/prediciting-the-survival-of-titanic-disaster-87f0cbc6e32f'
     weight: 40
 
   - name: Accomplishments
