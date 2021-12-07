@@ -22,17 +22,20 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
-- certificate_url: https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC8725d05dbd-38647653935477.pdf
-  date_end: ""
-  date_start: "2021-07-21"
-  description: ""
-  organization: International Scrum Institute
-  organization_url: https://www.scrum-institute.org/
-  title: Scrum Master
-  url: ""
+#item:
+#- certificate_url: https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC8725d05dbd-38647653935477.pdf
+ # date_end: ""
+  #date_start: "2021-07-21"
+  #description: ""
+  #organization: International Scrum Institute
+  #organization_url: https://www.scrum-institute.org/
+  #title: Scrum Master
+  #url: ""
 
-
+projects:
+- title: Access to save drinking water is important for public health. According to the world health organization can improved water supply and sanitation and better management of water resources boost the economic growth and contribute to poverty reduction.
+The project proposal page can be downloaded here.
+dataset_url: ' https://www.kaggle.com/adityakadiwal/water-potability'
 
 design:
   columns: '2' 
