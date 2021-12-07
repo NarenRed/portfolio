@@ -11,7 +11,7 @@ weight: 60
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Water Potability'
-subtitle: 'Access to save drinking water is important for public health. According to the world health organization can improved water supply and sanitation and better management of water resources boost the economic growth and contribute to poverty reduction. The project proposal page can be downloaded here.'
+summary: 'Access to save drinking water is important for public health. According to the world health organization can improved water supply and sanitation and better management of water resources boost the economic growth and contribute to poverty reduction. The project proposal page can be downloaded here.'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
