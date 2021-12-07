@@ -33,7 +33,7 @@ date_format: Jan 2006
   #url: ""
 
 projects:
-- title: Access to save drinking water is important for public health. According to the world health organization can improved water supply and sanitation and better management of water resources boost the economic growth and contribute to poverty reduction. The project proposal page can be downloaded here.
+title: Access to save drinking water is important for public health. According to the world health organization can improved water supply and sanitation and better management of water resources boost the economic growth and contribute to poverty reduction. The project proposal page can be downloaded here.
 dataset_url: ' https://www.kaggle.com/adityakadiwal/water-potability'
 
 design:
