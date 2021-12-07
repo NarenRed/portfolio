@@ -18,8 +18,8 @@ main:
     url: 'https://medium.com/@penintinarender'
     weight: 40
 
-  - name: Accomplishments
-    url: '#accomplishments'
+  - name: Projects
+    url: '#projects'
     weight: 50
 
   - name: Contact
