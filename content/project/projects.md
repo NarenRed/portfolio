@@ -11,7 +11,7 @@ weight: 60
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: Water Potability
-summary: Access to save drinking water is important for public health. According to the world health organization can improved water supply and sanitation and better management of water resources boost the economic growth and contribute to poverty reduction. The project proposal page can be downloaded  [here](https://wowchemy.com/user-stories/).
+summary: Access to save drinking water is important for public health. According to the world health organization can improved water supply and sanitation and better management of water resources boost the economic growth and contribute to poverty reduction. The project proposal page can be downloaded  [here](https://drive.google.com/drive/u/0/folders/12YFpusY2OERxQGmdAmvKhhzSsjZMR_9I). The link to the kaggale notebook is [here](https://www.kaggle.com/penintinarenderreddy/water-potability-naren).
 
 here: https://penintinarender.netlify.app/
 
